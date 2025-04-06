@@ -1,4 +1,4 @@
-# 🔗 [App Name] - Blockchain Flutter App with MetaMask  
+# 🔗 BlockLedgerLy - Blockchain Flutter App with MetaMask  
 
 A secure and interactive Flutter app for seamless blockchain transactions using MetaMask.  
 
